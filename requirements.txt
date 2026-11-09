@@ -1,0 +1,11 @@
+# Core training / inference
+torch>=1.13
+transformers>=4.30
+accelerate
+easydict
+tqdm
+
+# Data / evaluation
+numpy
+pandas
+scikit-learn
